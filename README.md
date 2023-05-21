@@ -48,7 +48,7 @@ git submodule update --init
 Then to build the project run:
 
 ```sh
-cargo install bindgen
+cargo install bindgen-cli
 cargo build --release
 
 # or:
